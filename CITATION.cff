@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use FLUXFIRE, please cite it as below. Cite the original NASA PSI investigations and publications for any scientific values."
+title: "FLUXFIRE — ORBITAL MIND: microgravity combustion evidence workspace"
+type: software
+authors:
+  - family-names: "Mortaza"
+    given-names: "Shomrat"
+license: MIT
+date-released: "2026-10-16"
+url: "https://orbital-flux-verify.lovable.app"
+keywords:
+  - microgravity combustion
+  - NASA Physical Sciences Informatics
+  - BASS-II
+  - SAFFIRE-I
+  - FLEX
+  - provenance
